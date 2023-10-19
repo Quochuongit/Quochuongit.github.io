@@ -1,0 +1,33 @@
+body, *{
+    margin:0;
+    padding: 0;
+}
+.box{
+    width: 400px;
+    height: 130px;
+    border: outset 4px;
+    box-sizing: content-box;
+    background-color: whitesmoke;
+}
+.boxabc{
+    width:395px;
+    height:20px;
+    border:dotted;
+    border-color: red;
+    box-sizing: content-box;
+}
+.box1{
+    width:342px;
+    height:10px;
+    background-color:rgb(149, 184, 196);
+    padding:30px;
+}
+.box2{
+    width: 200px;
+    height: 90px;
+    border: solid 16px;
+    border-color: rgb(7, 7, 133);
+    background-color: rgba(69, 191, 239, 0.466);
+    padding:25px;
+    margin:25px;
+}
